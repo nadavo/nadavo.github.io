@@ -11,41 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Candidate, Technion - Israel Institue of Technology, 2018 - Present. Research in Natural Language Processing under the supervision of Professor Roi Reichart.
+* B.Sc. in Industrial Engineering & Management, majoring in Information Systems Engineering, Technion Israel Institue of Technology, 2017. Graduated Cum Laude.
+  * Industrial Engineering & Management (IE&M) Dean's List of Excellence Honors.
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+October 2018 – July 2020
+Head Teaching Assistant for Natural Language Processing course (lecturer: Prof. Roi Reichart) at the IE&M faculty during winter 2019, winter 2020 and spring 2020 semesters.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+June 2019 – October 2019
+Internship at Yahoo! Research Labs in the User Modeling team. 
+Researched textual phenomena in the Yahoo! online advertising system.
+
+March 2015 – October 2018
+Cloud Computing Software Engineer (student position) at Intel Corp.
+Development of a globally distributed cloud computing software system programmed in Java.
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Java.
+* Machine Learning Frameworks: PyTorch.
+
+* Native Languages:
+  * English
+  * Hebrew
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
