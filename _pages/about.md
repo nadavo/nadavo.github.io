@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a PhD student at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>, working under the supervision of Professor <a href = "https://ie.technion.ac.il/~roiri/">Roi Reichart</a>. 
 
-In my research I investigate and develop algorithms for human conversation processing.
+My main field of research is Natural Language Processing, where I investigate and develop algorithms for human conversation processing.

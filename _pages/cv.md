@@ -17,16 +17,13 @@ Education
 
 Professional Experience
 ======
-October 2018 – July 2020
-Head Teaching Assistant for Natural Language Processing course (lecturer: Prof. Roi Reichart) at the IE&M faculty during winter 2019, winter 2020 and spring 2020 semesters.
+* Head Teaching Assistant for Natural Language Processing course (lecturer: Prof. Roi Reichart) at the IE&M faculty during winter 2019, winter 2020 and spring 2020 semesters. October 2018 – July 2020.
 
-June 2019 – October 2019
-Internship at Yahoo! Research Labs in the User Modeling team. 
-Researched textual phenomena in the Yahoo! online advertising system.
+* Research Intern at Yahoo! Research Labs in the User Modeling team. 
+Researched textual phenomena in the Yahoo! online advertising system. June 2019 – October 2019.
 
-March 2015 – October 2018
-Cloud Computing Software Engineer (student position) at Intel Corp.
-Development of a globally distributed cloud computing software system programmed in Java.
+* Cloud Computing Software Engineer (student position) at Intel Corp.
+Development of a globally distributed cloud computing software system programmed in Java. March 2015 – October 2018.
 
 
 
