@@ -12,4 +12,4 @@ I'm a PhD Candidate at the <a href = "http://www.technion.ac.il">Technion - Isra
 
 My main field of research is Natural Language Processing, where I investigate and develop algorithms for human conversation processing.
 
-Currently also working as an NLP Research Intern at the Alexa Shopping Science Team at Amazon Research in Tel Aviv.
+I am also an NLP Research Intern at the Alexa Shopping Science Team at Amazon Research in Tel Aviv.
