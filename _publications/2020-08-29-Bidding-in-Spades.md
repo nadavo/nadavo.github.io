@@ -5,7 +5,7 @@ permalink: /publication/2020-08-29-Bidding-in-Spades
 date: 2020-08-29
 venue: "European Conference on Artificial Intelligence (ECAI)"
 citation: 'Gal Cohensius, Reshef Meir, <b>Nadav Oved</b>, Roni Stern. "Bidding in Spades." <i>Proceedings of the 24th European Conference on Artificial Intelligence</i>.'
-pdfurl: "https://arxiv.org/pdf/1912.11323.pdf"
+pdfurl: "http://ecai2020.eu/papers/235_paper.pdf"
 ---  
-<a href='https://arxiv.org/pdf/1912.11323.pdf'>PDF</a>
+<a href='http://ecai2020.eu/papers/235_paper.pdf'>PDF</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
