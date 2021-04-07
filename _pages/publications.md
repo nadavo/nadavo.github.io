@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://www.semanticscholar.org/author/Nadav-Oved/1382650252?sort=pub-date">my Semantic Scholar profile</a>.</u>
+You can also find my articles on <a href="https://www.semanticscholar.org/author/Nadav-Oved/1382650252?sort=pub-date">Semantic Scholar</a>.
 
 {% include base_path %}
 
